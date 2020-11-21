@@ -12,10 +12,6 @@ void Coding (char *str, int number, char *secstr,int a){
             std::cout << secstr[a];
         }
         }
-    else {
-        secstr[a] = ' ';
-        std::cout << secstr[a];
-    }
 }
 
 void DeCoding (char *secstr, int a, int number){
@@ -59,6 +55,7 @@ int main() {
         }
         else{
          secstr[a] = ' ';
+         cout << ' ';
         }
         a++;
     }
