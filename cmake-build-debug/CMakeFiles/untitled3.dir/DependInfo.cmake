@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/rumya/CLionProjects/untitled3/main.cpp" "C:/Users/rumya/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/untitled3.dir/main.cpp.obj"
+  "/home/host/Документы/ClionProjects/Crypto/CryptoHomework/main.cpp" "/home/host/Документы/ClionProjects/Crypto/CryptoHomework/cmake-build-debug/CMakeFiles/untitled3.dir/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "MSVC")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
